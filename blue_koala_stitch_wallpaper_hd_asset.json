@@ -3,17 +3,17 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_banner": "ca-app-pub-3788780477312699/4656355373",
+      "main_ads_intertitial":"ca-app-pub-3788780477312699/9717110364",
+      "main_ads_natives":"ca-app-pub-3788780477312699/7464537020",
       "backup_ads_natives":"null",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
-      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_admob":"ca-app-pub-3788780477312699/2755135825",
       "open_ads_alien":"null",
       "open_ads_max":"1",
       "on_off_native_listview":"1",
-      "interval_intertitial": 5,
+      "interval_intertitial": 3,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -41,7 +41,7 @@
     }
 
   ],
-  "Wallpaper": [
+  "Wallpaperx": [
     {
       "wallpaper_name": "Stitch Wallpaper 1",
       "wallpaper_url": "https://i.pinimg.com/564x/7a/b2/e8/7ab2e81b730d6001220d54f023188f81.jpg"
